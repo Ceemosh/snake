@@ -1,3 +1,12 @@
+
+
+
+
+                                             My first Game
+
+
+
+
 import sys
 import random
 import pygame
